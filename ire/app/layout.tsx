@@ -10,7 +10,6 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "IRE - Integrated Research Environment",
   description: "AI-powered research workspace for data science and analysis",
-  generator: "v0.app",
   icons: {
     icon: [
 
